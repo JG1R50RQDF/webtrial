@@ -691,3 +691,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   border:1.5px solid grey;
   border-radius: 2px;
 }
+
+.img-fluid{
+padding:8px;
+}
